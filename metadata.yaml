@@ -1,0 +1,32 @@
+_repo: All-Men-are-Ghosts_36518
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36518-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jacks, L. P. (Lawrence Pearsall)
+    alias: Jacks, Lawrence Pearsall
+    birthdate: 1860
+    deathdate: 1955
+    gutenberg_agent_id: '35188'
+    url: http://www.gutenberg.org/2009/agents/35188
+    wikipedia: http://en.wikipedia.org/wiki/L._P._Jacks
+description: 1. Panhandle and the ghosts -- 2. All men are ghosts -- 3. The professor's
+  mare -- 4. White roses.
+gutenberg_issued: '2011-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36518'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Supernatural -- Fiction'
+- !lcsh 'Short stories'
+tableOfContents: Panhandle and the ghosts -- The magic formula -- All men are ghosts
+  -- The professor's mare -- Farmer Jeremy and his ways -- White roses.
+title: All Men are Ghosts
+url: http://www.gutenberg.org/ebooks/36518
